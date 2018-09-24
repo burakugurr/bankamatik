@@ -1,4 +1,4 @@
-*İndirdiğinii klasördeki kodları çalıştırdığınıda içinde bulunulan klasörde iki farklı txt dosyası oluşacaktır.
+*IndÄ±rdÄ±gÄ±nÄ±z klasÃ¶rdeki kodlarÄ± calÄ±stÄ±rrdÄ±gÄ±nÄ±zda iÃ§inde bulunulan klasÃ¶rde iki farklÄ± txt dosyasÄ± olusacaktÄ±r.
 1-Vadeli hesap bilgileri
 2-Vadesiz hesap bilgileri
 
