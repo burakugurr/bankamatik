@@ -6,7 +6,7 @@
 | Features | Description |
 | ------ | ----------- |
 | Deposit Account   | You can create a time deposit account from your demand deposit account and calculate interest. |
-| Debt Information    | You can withdraw money from your current account and pay your bills with your current debt account. |
+| Debt Information    | You can withdraw money from your current account and pay your bills with your current deposit account. |
 
 
 ## OPTIONS ##
